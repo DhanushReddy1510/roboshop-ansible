@@ -85,3 +85,4 @@
       region: us-east-1
     loop: "{{ instances  }}"  
     when: action == "delete"
+    # bdhdbjh
